@@ -86,10 +86,4 @@ python tests/test_firewall.py
 
 ---
 
-## 👥 Team Contribution
 
-| Member | Role |
-|---|---|
-| Kiran U P | Rule Engine + Packet Simulation |
-| Harsh Sarda | Validator + Logger + Testing |
-| K Mallikarjun | Main Runner + Documentation + Report |
